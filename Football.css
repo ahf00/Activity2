@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Lobster', Calibri;
+    text-align: center;
+    color: rgb(17, 17, 133);
+    font-size: 40px;
+
+}
+
+img{
+    height: 15cm;
+    width: auto
+    display: block;
+    margin: 0 auto;
+    border: blue solid 5px;
+}
